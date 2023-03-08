@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/bang2.wav-915d9a978b9ff0ef9b0d6eef6758efa0.sample"
+
+[deps]
+
+source_file="res://Player/bang2.wav"
+dest_files=[ "res://.import/bang2.wav-915d9a978b9ff0ef9b0d6eef6758efa0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
